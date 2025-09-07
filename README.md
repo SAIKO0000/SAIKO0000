@@ -186,8 +186,7 @@ A sophisticated electrical engineering company website showcasing 40+ years of i
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sircartierr0/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MarkDaniel.Iguban)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:main.markdaniel.iguban@cvsu.edu.ph)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=main.markdaniel.iguban@cvsu.edu.ph&su=Hello%20from%20GitHub)
 </div>
 
 ---
