@@ -47,24 +47,19 @@ A comprehensive full-stack project management platform designed to streamline en
 </td>
 <td width="50%">
 
-```javascript
-// Performance Optimization Example
-const optimizedQuery = useQuery({
-  queryKey: ['tasks'],
-  queryFn: async () => {
-    return supabase
-      .from('tasks')
-      .select(`
-        *,
-        project:projects(id, name),
-        assignee:personnel(id, name)
-      `)
-      .order('created_at', { ascending: false })
-  },
-  staleTime: 5 * 60 * 1000, // 5 minutes
-  gcTime: 15 * 60 * 1000,   // 15 minutes
-})
-```
+### ⚡ **GYG Power Systems - Corporate Website**
+A sophisticated electrical engineering company website showcasing 40+ years of industry expertise and professional services.
+
+**🛠️ Built With:**
+- Next.js 14 + TypeScript + React 18
+- TailwindCSS + Radix UI + Framer Motion
+- Responsive Design + Modern UI/UX
+- Advanced Animation System
+
+**⚡ Key Achievements:**
+- 📐 **75% scaling optimization** across all screen sizes
+- 📱 **9-breakpoint responsive** system (375px to 4K+)
+- 🎨 **Professional design** with DPR-aware scaling
 
 </td>
 </tr>
