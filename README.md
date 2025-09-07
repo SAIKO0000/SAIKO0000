@@ -27,7 +27,7 @@
 <tr>
 <td width="50%">
 
-### 🚀 **ProjTrack - Engineering Management System**
+### 🚀 **ProjTrack - Electrical Engineering Management System**
 A comprehensive full-stack project management platform designed to streamline engineering workflows and enhance team collaboration.
 
 **🛠️ Built With:**
