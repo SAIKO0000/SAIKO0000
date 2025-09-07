@@ -1,29 +1,6 @@
-<div align="center---
-
-## 🔥 Featured Project
-
-![Profile Views](h---
-
-## 🛠️ Tech Stack & Toolss://komarev.com/ghpvc/?---
-
-### 📊 GitHub Analytics
-
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SAIKO0000&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Mark Daniel Iguban github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIKO0000&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117&cache_seconds=86400" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SAIKO0000&theme=gotham&hide_border=true&background=0D1117&stroke=0000&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&cache_seconds=86400" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAIKO0000&theme=gotham&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-## 🎯 Current Learning Pathb Analyticsrname=SAIKO---
-
-## 💭 Developer Philosophy0&color=0891b2&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=SAIKO0000&color=0891b2&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -41,7 +18,7 @@
 
 ---
 
-## � Featured Project
+## 🔥 Featured Project
 
 <table>
 <tr>
@@ -90,7 +67,7 @@ const optimizedQuery = useQuery({
 
 ---
 
-## �️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -126,6 +103,7 @@ const optimizedQuery = useQuery({
 
 ### 🔧 Development Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -143,7 +121,7 @@ const optimizedQuery = useQuery({
 
 ---
 
-## � GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SAIKO0000&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Mark Daniel Iguban github stats" /> 
@@ -156,7 +134,7 @@ const optimizedQuery = useQuery({
 
 ---
 
-## � Current Learning Path
+## 🎯 Current Learning Path
 
 <table>
 <tr>
@@ -210,7 +188,7 @@ const optimizedQuery = useQuery({
 
 ---
 
-## � Developer Philosophy
+## 💭 Developer Philosophy
 
 <div align="center">
 
