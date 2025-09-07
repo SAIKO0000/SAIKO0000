@@ -30,6 +30,8 @@
 ### 🚀 **ProjTrack - Electrical Engineering Management System**
 A comprehensive full-stack project management platform designed to streamline engineering workflows and enhance team collaboration.
 
+**🌐 [🔗 Live Demo](https://gyg-project-management.vercel.app/)** 
+
 **🛠️ Built With:**
 - Next.js 15 + TypeScript + React 19
 - Supabase (PostgreSQL) + TanStack Query  
