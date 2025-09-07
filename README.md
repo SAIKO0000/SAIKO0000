@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mark+Daniel+Iguban!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=87CEEB&background=87CEEB00&gradient=4FC3F7,29B6F6,0288D1&gradientColor=true&lines=Hi+There!+👋;Lets+Build+the+Future+with+Code+🚀;Turn+Ideas+into+Reality+💡;Solve+Real+World+Problems+⚡;" />
 </h1>
 
 <div align="center">
