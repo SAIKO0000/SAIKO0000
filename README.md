@@ -21,7 +21,7 @@
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Projects
 
 <table>
 <tr>
@@ -48,7 +48,9 @@ A comprehensive full-stack project management platform designed to streamline en
 <td width="50%">
 
 ### ⚡ **GYG Power Systems - Corporate Website**
-A sophisticated electrical engineering company website showcasing 40+ years of industry expertise and professional services.
+A sophisticated electrical engineering company website showcasing 40+ years of industry expertise, complete project portfolio, and professional services.
+
+**🌐 [🔗 Live Demo](https://gyg-static.vercel.app/)** 
 
 **🛠️ Built With:**
 - Next.js 14 + TypeScript + React 18
@@ -60,6 +62,8 @@ A sophisticated electrical engineering company website showcasing 40+ years of i
 - 📐 **75% scaling optimization** across all screen sizes
 - 📱 **9-breakpoint responsive** system (375px to 4K+)
 - 🎨 **Professional design** with DPR-aware scaling
+- ⚡ **Advanced animations** with Framer Motion integration
+- 🚀 **Performance optimization** for high-traffic corporate site
 
 </td>
 </tr>
