@@ -1,6 +1,29 @@
-<div align="center">
+<div align="center---
 
-![Profile Views](https://komarev.com/ghpvc/?username=SAIKO0000&color=0891b2&style=flat-square&label=Profile+Views)
+## 🔥 Featured Project
+
+![Profile Views](h---
+
+## 🛠️ Tech Stack & Toolss://komarev.com/ghpvc/?---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SAIKO0000&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Mark Daniel Iguban github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIKO0000&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117&cache_seconds=86400" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SAIKO0000&theme=gotham&hide_border=true&background=0D1117&stroke=0000&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&cache_seconds=86400" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAIKO0000&theme=gotham&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+## 🎯 Current Learning Pathb Analyticsrname=SAIKO---
+
+## 💭 Developer Philosophy0&color=0891b2&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -191,7 +214,7 @@ const optimizedQuery = useQuery({
 
 <div align="center">
 
-*"Code is not just about solving problems—it's about crafting elegant solutions that make a meaningful impact on people's lives."*
+*"Code is not just about solving problems - it's about crafting elegant solutions that make a meaningful impact on people's lives."*
 
 **🎮 Fun Fact:** When I'm not coding, you'll find me reading manga/manhwa or exploring the latest web development frameworks! 📚✨
 
