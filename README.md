@@ -30,7 +30,7 @@
 ### **Relay - Electrical Engineering Management System**
 A comprehensive full-stack project management platform designed to streamline engineering workflows and enhance team collaboration.
 
-**[Live Demo](https://projtrack-portfolio-demo.vercel.app/)**  
+**[Live Demo](https://relay-portfolio-demo.vercel.app/)**  
 
 **Built With:**
 - Next.js 15 + TypeScript + React 19
