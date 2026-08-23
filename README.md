@@ -27,7 +27,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### **ProjTrack - Electrical Engineering Management System**
+### **Relay - Electrical Engineering Management System**
 A comprehensive full-stack project management platform designed to streamline engineering workflows and enhance team collaboration.
 
 **[Live Demo](https://projtrack-portfolio-demo.vercel.app/)**  
