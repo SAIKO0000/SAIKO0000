@@ -1,11 +1,6 @@
 ![Header](./banner.png)
 
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SAIKO0000&color=0891b2&style=flat-square&label=Profile+Views)
-
-</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=87CEEB&background=87CEEB00&gradient=4FC3F7,29B6F6,0288D1&gradientColor=true&lines=Hi+There!;Let%27s+Build+the+Future+with+Code;Turn+Ideas+into+Reality;Solve+Real-World+Problems;" />
